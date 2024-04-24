@@ -10,6 +10,9 @@ This was my first React website. Here I used Bootstrap (CSS framework) for desig
 - lowercase to uppercase
 
 
+## Preview the website 
+https://textutils-cwh.netlify.app/
+
 
 
 
