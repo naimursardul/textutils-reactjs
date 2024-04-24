@@ -1,3 +1,12 @@
+This was my first React website. Here I used Bootstrap (CSS framework) for designing.
+
+## About Textutils
+TextUtil is a word counter and character counter utility which can be used to manipulate your text in the way you want. You can remove extra spaces, copy the manipulated text as well as convert text to Uppercase to loawer case and lowercase to uppercase. You can extract web address or website url from text by using TestUtil as well
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
