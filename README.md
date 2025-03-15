@@ -1,3 +1,21 @@
+This was my first React website. Here I used Bootstrap (CSS framework) for designing.
+
+## About Textutils
+- You can extract web address or website url from text
+- word counter
+- character counter
+- can remove extra spaces
+- copy the manipulated text
+- convert text to Uppercase to loawer case
+- lowercase to uppercase
+
+
+## Preview the website 
+https://textutils-cwh.netlify.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
